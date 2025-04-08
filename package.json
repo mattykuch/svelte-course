@@ -1,0 +1,19 @@
+{
+  "name": "learning-svelte",
+  "version": "1.0.0",
+  "description": "Place to learn the svelte js framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattykuch/svelte-course.git"
+  },
+  "author": "Matthew Kuch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattykuch/svelte-course/issues"
+  },
+  "homepage": "https://github.com/mattykuch/svelte-course#readme"
+}
