@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mattykuch/svelte-course/issues"
   },
-  "homepage": "https://github.com/mattykuch/svelte-course#readme"
+  "homepage": "https://github.com/mattykuch/svelte-course#readme",
+  "dependencies": {
+    "degit": "^2.8.4"
+  }
 }
